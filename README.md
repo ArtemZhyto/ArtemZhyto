@@ -75,12 +75,12 @@ Email: **[artemzhr11@gmail.com](mailto:artemzhr11@gmail.com)**
 
 Telegram: **[artem_zhyto](https://t.me/artem_zhyto)**
 
-## Supporting the Project 💖
+## Supporting the Projects 💖
 
-If this tool helps you in your work or studies, consider supporting its development:
+Support the product creator:
 
 [![Support Development](https://img.shields.io/badge/🚀_Support_Development-Monobank-%2300B2FF?style=for-the-badge\&logo=monobank)](https://send.monobank.ua/jar/8HQAch1y6E)
 
-*Your support helps improve and maintain this generator!*
+*You contribute to my development*
 
 Thank you for visiting my profile! 🌟
