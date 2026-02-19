@@ -1,6 +1,6 @@
 # Hi, I'm Artem Zhyto 😎
 
-**Middle Fullstack Developer (Next.js / Node.js)**
+**Software Engineer**
 
 I design and build full-cycle web systems - from architectural planning and UI implementation to backend infrastructure and deployment pipelines. I approach software development as an engineering discipline focused on scalability, reliability, and long-term maintainability.
 
