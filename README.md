@@ -1,86 +1,86 @@
 # Hi, I'm Artem Zhyto 😎
 
-**Middle Fullstack Developer (Next.js / Node.js) | Future Aerospace Engineer**
+**Middle Fullstack Developer (Next.js / Node.js)**
 
-I build full‑cycle web applications: design, frontend, backend, infrastructure, and deployment. I am following a structured plan to develop myself in the areas that matter most. Currently, I am learning **Python** and exploring various **algorithms** on it, preparing for the next stages of my development.
+I design and build full-cycle web systems - from architectural planning and UI implementation to backend infrastructure and deployment pipelines. I approach software development as an engineering discipline focused on scalability, reliability, and long-term maintainability.
+
+I have completed Calculus I–III and actively apply mathematical analysis in system modeling and algorithmic reasoning, including in my project ORBITA.
+
+---
 
 ## Tech Stack 💻
 
-* **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Sass, Redux
-* **Backend:** Node.js, Express, Prisma, Mailer, Winston
-* **Databases:** PostgreSQL, Redis
-* **Tools:** Docker, Git, CI/CD, Testing Frameworks
+### Frontend
+* Next.js, React, TypeScript, Tailwind CSS, Sass, Redux
 
-## What I Focus On 🎯
+### Backend
+* Node.js, Express, Prisma, REST APIs
 
-* High‑performance web applications
-* Secure and stable backend architecture
-* Clean and maintainable code
-* Educational and socially valuable products
+### Databases & Infrastructure
+* PostgreSQL, Redis, Docker
 
-## Current Projects 🚀
+### Tooling & DevOps
+* Git, GitHub Actions (CI/CD), automated testing, structured code quality workflows
 
-* **Phys&Math education** – an educational platform for mathematics and physics
-* **Math tasks generator** – a server‑driven school math trainer
-* **QuCore Dynamic** – a collection of interconnected products and services
+---
 
-## Goals 🏆
+## Engineering Focus 🎯
 
-* Build my own technology company
-* Develop products that bring real value to people
-* Move toward aerospace‑related technologies and advanced materials
+* Scalable and predictable system architecture
+* Backend reliability and fault tolerance
+* Secure API and middleware design
+* Performance optimization across the full stack
+* Clean, modular, maintainable codebases
 
-## Professional Focus 🛠️
+---
 
-I approach development as an engineering discipline. My core priorities include:
+## Selected Projects 🚀
 
-* Designing scalable, predictable system architectures
-* Ensuring fault tolerance and reliability in backend services
-* Applying strict security practices in middleware, sessions, and API design
-* Optimizing performance across the entire stack, from database queries to UI rendering
+### **Phys&Math Education Platform**
+Server-driven educational system for mathematics and physics with structured content delivery and controlled access architecture.
 
-## Development Philosophy 💡
+### **Math Tasks Generator**
+Backend-centric mathematical training system with algorithmic task generation and scalable evaluation logic.
 
-* **Clarity over complexity:** every module, function, and interface must be unambiguous.
-* **Predictability:** code should behave consistently under load and unexpected conditions.
-* **Maintainability:** any part of the project should be understandable months later.
-* **Performance by design:** optimization is not an afterthought.
+### **ORBITA (Orbital Radio-coverage Behavior & Interaction Analysis)**
+A system involving analytical modeling and structured data processing where mathematical foundations (including multivariable calculus) are applied to system reasoning and modeling.
 
-## Current Engineering Directions ⚙️
+### **QuCore Dynamic**
+An interconnected multi-product ecosystem designed with modular architecture and shared infrastructure layers.
 
-* Building educational platforms with large content volumes and dynamic server‑side logic
-* Creating reusable component libraries and internal tooling for automation
-* Enhancing security layers for authentication, authorization, and rate-limiting
-* Designing modular architectures for multi‑product ecosystems (QuCore Dynamic)
+---
 
-## Tools & Workflows I Use 🧰
+## Architectural Principles 💡
 
-* Git-based workflow with structured commits and automated checks
-* CI/CD pipelines (GitHub Actions) for testing, linting, and deployments
-* Containerized environments with Docker for infrastructure consistency
-* Multi-tier architecture with API gateways, caching layers, and database optimizations
+* **Clarity:** Explicit contracts between modules and services
+* **Determinism:** Predictable behavior under load and edge conditions
+* **Maintainability:** Readable, extensible code structures
+* **Performance by design:** Optimization embedded at the architectural level
 
-## Long-Term Outlook 🌠
+---
 
-I plan to:
+## Workflows 🛠️
 
-* Establish a technology company combining software, AI, and engineering products
-* Build an R&D division focused on aerospace, plasma physics, and advanced materials
-* Contribute to technologies that make human expansion into space more attainable
-* Develop robust software infrastructures supporting large-scale scientific platforms
+* Structured Git workflow with disciplined commit history
+* Automated CI pipelines for linting, testing, and deployment
+* Containerized environments for infrastructure consistency
+* Multi-tier architectures with caching and database query optimization
+
+---
+
+## Long-Term Direction 🌠
+
+* Build a technology company focused on high-impact software systems
+* Develop large-scale, technically rigorous platforms
+* Contribute to advanced engineering-driven projects
+
+---
 
 ## Contact 📫
 
-Email: **[artemzhr11@gmail.com](mailto:artemzhr11@gmail.com)**
+* **Email:** [artemzhr11@gmail.com](mailto:artemzhr11@gmail.com)
+* **Telegram:** [@artem_zhyto](https://t.me/artem_zhyto)
 
-Telegram: **[artem_zhyto](https://t.me/artem_zhyto)**
+---
 
-## Supporting the Projects 💖
-
-Support the product creator:
-
-[![Support Development](https://img.shields.io/badge/🚀_Support_Development-Monobank-%2300B2FF?style=for-the-badge\&logo=monobank)](https://send.monobank.ua/jar/8HQAch1y6E)
-
-*You contribute to my development*
-
-Thank you for visiting my profile! 🌟
+[![Support Development](https://img.shields.io/badge/🚀_Support_Development-Monobank-%2300B2FF?style=for-the-badge&logo=monobank)](https://send.monobank.ua/jar/8HQAch1y6E)
