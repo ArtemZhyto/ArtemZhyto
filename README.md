@@ -1,4 +1,4 @@
-# Hi, I'm Artem Zhyto 😎
+# Hi, I'm Artem Zhyto
 
 **Software Engineer**
 
@@ -8,7 +8,7 @@ I have completed Calculus I–III and actively apply mathematical analysis in sy
 
 ---
 
-## Tech Stack 💻
+## Tech Stack
 
 ### Frontend
 * Next.js, React, TypeScript, Tailwind CSS, Sass, Redux
@@ -24,7 +24,7 @@ I have completed Calculus I–III and actively apply mathematical analysis in sy
 
 ---
 
-## Engineering Focus 🎯
+## Engineering Focus
 
 * Scalable and predictable system architecture
 * Backend reliability and fault tolerance
@@ -34,7 +34,7 @@ I have completed Calculus I–III and actively apply mathematical analysis in sy
 
 ---
 
-## Selected Projects 🚀
+## Selected Projects
 
 ### **Phys&Math Education Platform**
 Server-driven educational system for mathematics and physics with structured content delivery and controlled access architecture.
@@ -50,7 +50,7 @@ An interconnected multi-product ecosystem designed with modular architecture and
 
 ---
 
-## Architectural Principles 💡
+## Architectural Principles
 
 * **Clarity:** Explicit contracts between modules and services
 * **Determinism:** Predictable behavior under load and edge conditions
@@ -59,7 +59,7 @@ An interconnected multi-product ecosystem designed with modular architecture and
 
 ---
 
-## Workflows 🛠️
+## Workflows
 
 * Structured Git workflow with disciplined commit history
 * Automated CI pipelines for linting, testing, and deployment
@@ -68,7 +68,7 @@ An interconnected multi-product ecosystem designed with modular architecture and
 
 ---
 
-## Long-Term Direction 🌠
+## Long-Term Direction
 
 * Build a technology company focused on high-impact software systems
 * Develop large-scale, technically rigorous platforms
@@ -76,11 +76,11 @@ An interconnected multi-product ecosystem designed with modular architecture and
 
 ---
 
-## Contact 📫
+## Contact
 
 * **Email:** [artemzhr11@gmail.com](mailto:artemzhr11@gmail.com)
 * **Telegram:** [@artem_zhyto](https://t.me/artem_zhyto)
 
 ---
 
-[![Support Development](https://img.shields.io/badge/🚀_Support_Development-Monobank-%2300B2FF?style=for-the-badge&logo=monobank)](https://send.monobank.ua/jar/8HQAch1y6E)
+[![Support Development](https://img.shields.io/badge/Support_Development-Monobank-%2300B2FF?style=for-the-badge&logo=monobank)](https://send.monobank.ua/jar/8HQAch1y6E)
