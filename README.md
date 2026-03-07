@@ -4,7 +4,7 @@
 
 I design and build full-cycle web systems - from architectural planning and UI implementation to backend infrastructure and deployment pipelines. I approach software development as an engineering discipline focused on scalability, reliability, and long-term maintainability.
 
-I have completed Calculus I–III and actively apply mathematical analysis in system modeling and algorithmic reasoning, including in my project ORBITA.
+I have completed Calculus I-III and actively apply mathematical analysis in system modeling and algorithmic reasoning, including in my project ORBITA.
 
 ---
 
