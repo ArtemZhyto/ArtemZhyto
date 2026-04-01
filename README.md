@@ -13,12 +13,12 @@
 ### 📊 Full Engineering Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtemZhyto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&hide_rank=true" width="49%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=ArtemZhyto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&hide_rank=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemZhyto&theme=radical&hide_border=true&background=0D1117" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemZhyto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10" width="60%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=ArtemZhyto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10" width="60%" />
 </p>
 
 ---
