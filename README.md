@@ -44,7 +44,7 @@
 ### 🚀 Key Projects
 
 * **[ORBITA](https://github.com/ArtemZhyto/ORBITA)** - 3D orbital mechanics simulator (Three.js/GLSL). Mathematical modeling based on Multivariable Calculus.
-* **[QuCore Dynamic](https://github.com/ArtemZhyto/qucore-presets)** - Modular SaaS ecosystem with deterministic architecture and high-performance core.
+* **[QuCore Dynamic](https://github.com/qucore-dynamic/qucore-presets)** - Modular SaaS ecosystem with deterministic architecture and high-performance core.
 * **[Phys&Math Education](https://github.com/ArtemZhyto/Phys-Math-education-public)** - Automated task generation and scalable backend architecture.
 
 ---
