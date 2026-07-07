@@ -118,10 +118,6 @@
       <br>Prisma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
       <br>Webpack
     </td>
@@ -144,6 +140,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
     </td>
   </tr>
 </table>
